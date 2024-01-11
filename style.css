@@ -691,7 +691,7 @@ button {
 
   /* footer */
   .footer_content-title {
-    margin-right: 8px;
+    margin-right: 8px !important;
   }
   .footer_content-information {
     width: auto;

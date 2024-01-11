@@ -690,16 +690,16 @@ button {
   }
 
   /* footer */
+  .footer_content-title {
+    margin-right: 8px;
+  }
   .footer_content-information {
     width: auto;
+    margin-right: 8px;
   }
 
   .transfer_style {
     width: auto;
-  }
-
-  .footer_content-information {
-    margin-right: 8px;
   }
 }
 

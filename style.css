@@ -697,6 +697,10 @@ button {
   .transfer_style {
     width: auto;
   }
+
+  .footer_content-information {
+    margin-right: 8px;
+  }
 }
 
 

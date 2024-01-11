@@ -554,6 +554,10 @@ button {
   .absolute_next_arrow {
     display: none;
   }
+
+  .transfer_style {
+    width: auto;
+  }
 }
 
 
@@ -687,6 +691,10 @@ button {
 
   /* footer */
   .footer_content-information {
+    width: auto;
+  }
+
+  .transfer_style {
     width: auto;
   }
 }
